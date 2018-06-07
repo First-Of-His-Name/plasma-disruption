@@ -1,2 +1,2 @@
 # plasma-disruption
-applying machine learning to predict the major disruptions in plasma confinement
+Predicting the disruption of plasma current in Tokamak ahead of the actual disruption.
